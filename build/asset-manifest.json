@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.424161c8.css",
+    "main.js": "/static/js/main.253eb603.js",
+    "static/media/FAQLogo.png": "/static/media/FAQLogo.17670ec9904ceca8ae76.png",
+    "static/media/SwiftTools.png": "/static/media/SwiftTools.b0c33b6ceca14ecf3946.png",
+    "static/media/SysTx Logo.png": "/static/media/SysTx Logo.058ff8fe95f2ff679f9a.png",
+    "static/media/ScanxLogo.png": "/static/media/ScanxLogo.3bf5942ee92a1e5e380a.png",
+    "static/media/SupportLogo.png": "/static/media/SupportLogo.f7cfb69f07c708788f73.png",
+    "static/media/Merio Logo.png": "/static/media/Merio Logo.859f7e5289be05544ae5.png",
+    "static/media/Koppl Logo.png": "/static/media/Koppl Logo.a6dfe308a27bc7d991ce.png",
+    "static/media/Opta Logo.png": "/static/media/Opta Logo.0802cc0f736cbc171181.png",
+    "static/media/StoreX Logo.png": "/static/media/StoreX Logo.23441f6ef55e74c9f822.png",
+    "index.html": "/index.html",
+    "main.424161c8.css.map": "/static/css/main.424161c8.css.map",
+    "main.253eb603.js.map": "/static/js/main.253eb603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424161c8.css",
+    "static/js/main.253eb603.js"
+  ]
+}

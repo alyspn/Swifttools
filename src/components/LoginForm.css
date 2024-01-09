@@ -1,0 +1,103 @@
+
+
+.login-container {
+  max-width: 400px;
+  margin: auto; 
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative; 
+}
+
+
+.login-container h2 {
+  text-align: center;
+  font-size: 24px; 
+  color: #333; 
+  margin-bottom: 20px;
+}
+
+
+.input-group label,
+.input-group input,
+.login-button,
+.forgot-password-link,
+.toggle-form-button {
+  display: block; 
+  width: 100%; 
+  color: black !important;
+}
+
+.input-group input,
+.login-button {
+  height: 40px; 
+  padding: 0 10px; 
+  margin-bottom: 10px; 
+}
+
+
+.login-button,
+.toggle-form-button {
+  background-color: #FFD700; 
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.login-button:hover,
+.toggle-form-button:hover {
+  background-color: #f1c40f; 
+}
+
+
+.forgot-password-link,
+.toggle-form-button {
+  color: #007bff; 
+  text-align: center;
+  margin-top: 10px;
+}
+
+.forgot-password-link:hover,
+.toggle-form-button:hover {
+  text-decoration: underline; 
+}
+
+
+@media (max-width: 768px) {
+  .login-container {
+    width: 80%;
+  }
+}
+
+@media (max-width: 480px) {
+  .login-container {
+    width: 95%;
+  }
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 70vh;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.logo-container {
+  display: flex;              
+  justify-content: center;    
+  margin-top: 20px;           
+}
+h2 {
+  font-weight: bold;
+}
+
+

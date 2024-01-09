@@ -1,0 +1,42 @@
+.orders-page {
+  text-align: center;
+  margin: auto;
+}
+
+.orders-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px; 
+}
+
+.order {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(50% - 10px); 
+  border: 1px solid #ddd; 
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.order-details {
+  flex: 1; 
+}
+
+.order-image {
+  text-align: center; 
+}
+
+.order-image img {
+  width: 100px; 
+  height: auto; 
+}
+
+button {
+  margin-top: 10px; 
+  padding: 10px 20px; 
+}
+
+
+  

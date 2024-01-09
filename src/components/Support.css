@@ -1,0 +1,59 @@
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  padding: 20px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.support-section {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.logo-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.support-form {
+  width: 100%; 
+}
+
+.input-group {
+  margin-bottom: 20px; 
+  text-align: center; 
+}
+
+.input-group label,
+.input-group input,
+.input-group textarea,
+.support-button {
+  width: 100%; 
+  max-width: 300px; 
+  margin: auto; 
+}
+
+.support-button {
+  display: block;
+}
+
+
+
+
